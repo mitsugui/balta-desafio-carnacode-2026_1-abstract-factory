@@ -1,4 +1,4 @@
-namespace DesignPatternChallenge.PagSeguro;
+namespace AbstractFactoryChallenge.PagSeguro;
 
 public class PagSeguroLogger : ILogger
 {

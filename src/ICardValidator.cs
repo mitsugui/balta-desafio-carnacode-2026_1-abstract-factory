@@ -1,4 +1,4 @@
-namespace DesignPatternChallenge;
+namespace AbstractFactoryChallenge;
 
 public interface ICardValidator
 {

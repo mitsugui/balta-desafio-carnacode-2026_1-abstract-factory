@@ -1,4 +1,4 @@
-namespace DesignPatternChallenge.Stripe;
+namespace AbstractFactoryChallenge.Stripe;
 
 public class StripeLogger : ILogger
 {

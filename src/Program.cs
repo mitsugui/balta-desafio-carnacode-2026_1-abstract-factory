@@ -1,6 +1,6 @@
-﻿using DesignPatternChallenge;
-using DesignPatternChallenge.MercadoPago;
-using DesignPatternChallenge.PagSeguro;
+﻿using AbstractFactoryChallenge;
+using AbstractFactoryChallenge.MercadoPago;
+using AbstractFactoryChallenge.PagSeguro;
 
 
 Console.WriteLine("=== Sistema de Pagamentos ===\n");

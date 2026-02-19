@@ -1,4 +1,4 @@
-namespace DesignPatternChallenge;
+namespace AbstractFactoryChallenge;
 
 public class PaymentService
 {

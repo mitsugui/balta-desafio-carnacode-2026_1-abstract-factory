@@ -1,4 +1,4 @@
-namespace DesignPatternChallenge.MercadoPago;
+namespace AbstractFactoryChallenge.MercadoPago;
 
 public class MercadoPagoValidator : ICardValidator
 {
